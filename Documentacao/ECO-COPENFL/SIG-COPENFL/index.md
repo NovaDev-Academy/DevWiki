@@ -1,2 +1,0 @@
-## Sumario SIG-Copenfl
-
