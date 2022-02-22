@@ -14,7 +14,7 @@ frutos de um projecto, aprendizado novo, etc.
 > Divirta-se codando 👌👍😎💖😍🎟
 
 
-Acessa o Link da nossa wiki e veja como 
+Acessa o Link da nossa wiki e veja como
 https://github.com/NovaDev-Time/DevWiki/wiki
 
 
